@@ -124,7 +124,7 @@ router.get('/', async (req, res) => {
 2️⃣ Stay updated with our latest releases and support.
 3️⃣ Enjoy seamless WhatsApp automation! 🤖  
 
-🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l) 
+🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31) 
 
 ⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [POPKID XTECH GitHub Repo](https://github.com/Popkiddevs/)  
 
