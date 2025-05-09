@@ -126,7 +126,7 @@ router.get('/', async (req, res) => {
 
 🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31) 
 
-⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [POPKID XTECH GitHub Repo](https://github.com/Popkiddevs/)  
+⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [LEZKUSH GitHub Repo](https://github.com/lezkush8/lezkush-bot)  
 
 🚀 _Thanks for choosing POPKID— Let the automation begin!_ ✨`;
 
